@@ -125,8 +125,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 DEFAULT_FROM_EMAIL = 'test@test.com'
 
 # EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-# EMAIL_HOST = 'w0174d79.kasserver.com'
-# EMAIL_HOST_USER = 'm063c38f'
+# EMAIL_HOST = 'w0174d79.kadsfr.com'
+# EMAIL_HOST_USER = 'm0sdfa8f'
 # EMAIL_PORT = 587
 
 
